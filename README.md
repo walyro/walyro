@@ -1,16 +1,18 @@
-## Hi there 👋
+# Walyro
 
-<!--
-**walyro/walyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turn your memories into animated Mac wallpapers.
 
-Here are some ideas to get you started:
+Walyro is a native macOS app that transforms personal videos into beautiful live wallpapers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+
+- Live video wallpapers
+- Native macOS experience
+- Local processing
+- Multi-display support
+- Battery optimized
+
+## Links
+
+- Website: https://walyro.com
+- X/Twitter: https://x.com/walyro_app
